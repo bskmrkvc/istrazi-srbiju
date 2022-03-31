@@ -1,0 +1,29 @@
+.selects .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+.izleti{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.josizleta{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 60px;
+    padding-bottom: 30px;
+}
+
+@media screen and (max-width: 740px) {
+    .selects .container {
+        grid-template-columns: 1fr;
+    }
+}
