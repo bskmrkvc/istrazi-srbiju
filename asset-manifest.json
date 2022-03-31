@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/istrazi-srbiju/static/css/main.296dc5bc.css",
+    "main.css": "/istrazi-srbiju/static/css/main.ea044721.css",
     "main.js": "/istrazi-srbiju/static/js/main.c5954a11.js",
     "static/media/videoHero.mp4": "/istrazi-srbiju/static/media/videoHero.e77ebf90e0d3bf2e85cd.mp4",
     "static/media/lazarevkanjon.jpg": "/istrazi-srbiju/static/media/lazarevkanjon.47abfd17c9f435281db1.jpg",
@@ -26,11 +26,11 @@
     "static/media/kanjonrace.jpg": "/istrazi-srbiju/static/media/kanjonrace.6b8c753fe0743cd42793.jpg",
     "static/media/gold.png": "/istrazi-srbiju/static/media/gold.42f7d8f40c346adfe3a7.png",
     "index.html": "/istrazi-srbiju/index.html",
-    "main.296dc5bc.css.map": "/istrazi-srbiju/static/css/main.296dc5bc.css.map",
+    "main.ea044721.css.map": "/istrazi-srbiju/static/css/main.ea044721.css.map",
     "main.c5954a11.js.map": "/istrazi-srbiju/static/js/main.c5954a11.js.map"
   },
   "entrypoints": [
-    "static/css/main.296dc5bc.css",
+    "static/css/main.ea044721.css",
     "static/js/main.c5954a11.js"
   ]
 }
