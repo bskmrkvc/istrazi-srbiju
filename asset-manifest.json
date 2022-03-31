@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/istrazi-srbiju/static/css/main.296dc5bc.css",
+    "main.js": "/istrazi-srbiju/static/js/main.c5954a11.js",
+    "static/media/videoHero.mp4": "/istrazi-srbiju/static/media/videoHero.e77ebf90e0d3bf2e85cd.mp4",
+    "static/media/lazarevkanjon.jpg": "/istrazi-srbiju/static/media/lazarevkanjon.47abfd17c9f435281db1.jpg",
+    "static/media/uvac.jpg": "/istrazi-srbiju/static/media/uvac.d2dff515ccf520c7cdbe.jpg",
+    "static/media/zaovinskojezero.jpg": "/istrazi-srbiju/static/media/zaovinskojezero.02b5abf03702799c208b.jpg",
+    "static/media/plantazapalic.jpg": "/istrazi-srbiju/static/media/plantazapalic.8aab19ac1d4a896fe266.jpg",
+    "static/media/mokragora.jpg": "/istrazi-srbiju/static/media/mokragora.ea27272e3805d7c63dfb.jpg",
+    "static/media/kraljevo.jpg": "/istrazi-srbiju/static/media/kraljevo.e34da237db8867e84909.jpg",
+    "static/media/krupanjskovrelo.jpg": "/istrazi-srbiju/static/media/krupanjskovrelo.359a32c332c6b0feed2b.jpg",
+    "static/media/kozjikamen.jpg": "/istrazi-srbiju/static/media/kozjikamen.3f745ab7b643ca7f4d30.jpg",
+    "static/media/drina.jpg": "/istrazi-srbiju/static/media/drina.3408d0c3ce1e032b4d69.jpg",
+    "static/media/povlensataora.jpg": "/istrazi-srbiju/static/media/povlensataora.293819c29e8fd6ac5926.jpg",
+    "static/media/crnivrh.jpg": "/istrazi-srbiju/static/media/crnivrh.7b3d99d4cbd09b8350bf.jpg",
+    "static/media/zagubica.jpg": "/istrazi-srbiju/static/media/zagubica.767350d9e93ab0c27eab.jpg",
+    "static/media/zlatiborskojezero.jpg": "/istrazi-srbiju/static/media/zlatiborskojezero.9c141c7526b889a96616.jpg",
+    "static/media/fruskagora.jpg": "/istrazi-srbiju/static/media/fruskagora.310311bef6a63f742782.jpg",
+    "static/media/sarplanina.jpg": "/istrazi-srbiju/static/media/sarplanina.7050942271455528b61b.jpg",
+    "static/media/dunavkodgolubca.jpg": "/istrazi-srbiju/static/media/dunavkodgolubca.c58661fc0e1583d338aa.jpg",
+    "static/media/raftingdrinom.jpg": "/istrazi-srbiju/static/media/raftingdrinom.1a637c1bcc46ab37727b.jpg",
+    "static/media/tupavica.jpg": "/istrazi-srbiju/static/media/tupavica.ec7d3ddc6aa8231787b0.jpg",
+    "static/media/djavoljavaros.jpg": "/istrazi-srbiju/static/media/djavoljavaros.d55538ad3fc36fdd2d45.jpg",
+    "static/media/tara.jpg": "/istrazi-srbiju/static/media/tara.3dc51fd1800bae2963ba.jpg",
+    "static/media/kanjonrace.jpg": "/istrazi-srbiju/static/media/kanjonrace.6b8c753fe0743cd42793.jpg",
+    "static/media/gold.png": "/istrazi-srbiju/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/istrazi-srbiju/index.html",
+    "main.296dc5bc.css.map": "/istrazi-srbiju/static/css/main.296dc5bc.css.map",
+    "main.c5954a11.js.map": "/istrazi-srbiju/static/js/main.c5954a11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.296dc5bc.css",
+    "static/js/main.c5954a11.js"
+  ]
+}
